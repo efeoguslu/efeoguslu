@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @efeoguslu
 - 👀 I’m interested in 3D Graphics, Artificial Intelligence, Machine Learning and Communication Systems
-- 🌱 I’m currently learning 3D Graphics, Artificial Intelligence, Machine Learning with Python
-- 💞️ I’m looking to collaborate on Machine Learning projects
+- 🌱 I’m currently learning 3D Graphics, Artificial Intelligence, Machine Learning with Python and also MATLAB applications regarding Control Systems and Communication Systems
+- 💞️ I’m looking to collaborate on Machine Learning and Communication Systems projects
 - 📫 How to reach me: Please contact me from efeoguslu@gmail.com
 
 <!---
