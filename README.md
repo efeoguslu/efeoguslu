@@ -1,4 +1,4 @@
-Hi, I’m @efeoguslu. I’m interested in C/C++ Programming, Machine Learning, .NET development and Communication Systems. 
+Hi, I’m @efeoguslu. I’m interested in C & C++ Programming, Machine Learning, and Communication Systems. 
 You can reach me via this e-mail address: efeoguslu@gmail.com
 LinkedIn: www.linkedin.com/in/efeoguslu
 
